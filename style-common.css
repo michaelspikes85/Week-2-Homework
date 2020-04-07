@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  color: gold;
+}
+
+.navbar-custom {
+  background-color: gold;
+  color: black;
+}
+
+.navbar-brand {
+  color: black;
+}
+
+.nav-link {
+  color: black;
+  text-align: right;
+}
+
+.img-thumbnail {
+  background-color: gold;
+}
