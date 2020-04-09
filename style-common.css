@@ -1,6 +1,7 @@
 body {
   background-color: black;
   color: gold;
+  font-family: "Tinos", serif;
 }
 
 .navbar-custom {
@@ -9,7 +10,7 @@ body {
 }
 
 .navbar-brand {
-  color: gblack;
+  color: black;
 }
 
 .nav-link {
@@ -23,4 +24,13 @@ body {
 
 .img-thumbnail {
   background-color: gold;
+}
+
+footer {
+  background-color: gold;
+  margin: 10px 0px 10px 0px;
+  padding: 0px 10px 0px 10px;
+}
+footer div span a button {
+  background-color: #0e76a8;
 }
