@@ -1,3 +1,7 @@
-/* #send-button {
-  background-color: gold;
-} */
+form {
+  background-color: black;
+}
+
+input :placeholder-shown {
+  color: gold;
+}
