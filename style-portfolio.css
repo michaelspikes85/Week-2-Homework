@@ -1,0 +1,24 @@
+#top-border {
+  border-radius: 10px 10px 0px 0px;
+}
+
+#bl-border {
+  border-radius: 0px 0px 0px 10px;
+}
+
+#br-border {
+  border-radius: 0px 0px 10px 0px;
+}
+
+.t-nail {
+  position: relative;
+}
+
+.caption {
+  position: absolute;
+  top: 64%;
+  width: 220px;
+  background-color: black;
+  text-align: center;
+  margin-left: -5px;
+}

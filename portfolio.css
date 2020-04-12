@@ -1,0 +1,11 @@
+#top-border {
+  border-radius: 10px 10px 0px 0px;
+}
+
+#bl-border {
+  border-radius: 0px 0px 0px 10px;
+}
+
+#br-border {
+  border-radius: 0px 0px 10px 0px;
+}

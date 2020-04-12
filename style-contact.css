@@ -2,6 +2,10 @@ form {
   background-color: black;
 }
 
+#b-rad {
+  border-radius: 10px 10px 10px 10px;
+}
+
 input :placeholder-shown {
   color: gold;
 }

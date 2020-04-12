@@ -28,13 +28,33 @@ main div h1 {
   margin-left: 15px;
 }
 
+.container {
+  margin-top: 50px;
+}
+
+hr {
+  background-color: gold;
+}
+
 .img-thumbnail {
   background-color: black;
   border-color: black;
 }
 
+.about-background {
+  background-color: black;
+  padding: 5px 30px 20px 30px;
+}
+
+.top-border {
+  border-radius: 10px 10px 0px 0px;
+}
+
+.bottom-border {
+  border-radius: 0px 0px 10px 10px;
+}
+
 footer {
-  border-style: solid black 5px;
   background-color: gold;
   margin: 10px 0px 10px 0px;
   padding: 0px 10px 0px 10px;
